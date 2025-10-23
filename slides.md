@@ -186,8 +186,28 @@ Marp形式（Markdown）で出力して。
 ギャンブルとしてだけじゃなくて、ブラッドスポーツとしての魅力も語りたい。
 ```
 
+結果: https://shirai.github.io/lt-slide-chatgpt-marp/demo1
+
 ---
 
+<!-- _header: ChatGPT × Marp -->
+<!-- footer: スマホで完結するLT資料づくり -->
+
+### 見た目地味なのでアプデを依頼
+```
+もうちょい映える見た目にしたい
+```
+
+結果: https://shirai.github.io/lt-slide-chatgpt-marp/demo2
+
+### いくつかテーマを提案されたので選択
+```
+牧場風ナチュラルで仕上げて
+```
+結果: https://shirai.github.io/lt-slide-chatgpt-marp/demo3
+
+# 完成！！
+---
 <!-- _header: ChatGPT × Marp -->
 ## スライドをGitHub Pagesで公開する
 <!-- footer: スマホで完結するLT資料づくり -->
